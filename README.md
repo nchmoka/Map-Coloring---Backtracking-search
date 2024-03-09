@@ -13,4 +13,4 @@ if coloring was successfull graph.png should be added to the folder in the end o
 
 ## Example output
 
-![](example_output\graph.png)
+![](example_output/graph.png)
