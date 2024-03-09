@@ -1,9 +1,16 @@
 # Map Coloring - simple Backtracking search
 
-# dependencies: install requirements.txt using: pip install -r requirements.txt
+## dependencies
 
-# when choosing number N you need to make mape with same amount of colors
+install requirements.txt using: pip install -r requirements.txt
 
-# Example : for N=3 color_map={"r","g","b"}
+## Input
 
-# in the end if coloring was successfull graph.png should be added to the folder
+when choosing number N you need to make mape with same amount of colors
+Example : for N=4 color_map={"r","g","b","y"}
+
+if coloring was successfull graph.png should be added to the folder in the end of the run
+
+## Example output
+
+![](example_output\graph.png)
