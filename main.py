@@ -65,8 +65,8 @@ def color_graph(Graph, N,colors_map):
     
     # Print the solution
     print("Solution:")
-    for c in colors:
-        print(c, end=' ')
+    for i,c in enumerate(colors):
+        print(f"node {i} color:{colors_map[c]}")
 
     # visualize the graph
     visualize_graph(Graph,colors,colors_map)
